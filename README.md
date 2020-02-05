@@ -1,2 +1,2 @@
 # Analytics
-Analytics Consulting 
+Business Intelligence, Data Engineering and Analytics

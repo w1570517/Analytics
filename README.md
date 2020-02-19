@@ -3,7 +3,7 @@ My Sample Projects - Business Intelligence, Data Engineering and Analytics
 
 
 
-Interactive Sample Demo Links
+Interactive Project Sample Demo-Links
 
 
                   1)   Expected Engine Life Prediction

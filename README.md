@@ -8,7 +8,7 @@ Interactive Project Sample Demo-Links
 
                   1)   Expected Engine Life Prediction
 
-https://app.powerbi.com/view?r=eyJrIjoiZjRhMjUzM2YtMmI4Ny00MTk2LWE5YzgtN2NjMGE4OTgzMzRmIiwidCI6IjgwMGM1M2Y1LWQwOWQtNGEyNC05NzY1LWVmYzFhMmNhYWMwNyJ9
+[I'm an inline-style link] (https://app.powerbi.com/view?r=eyJrIjoiZjRhMjUzM2YtMmI4Ny00MTk2LWE5YzgtN2NjMGE4OTgzMzRmIiwidCI6IjgwMGM1M2Y1LWQwOWQtNGEyNC05NzY1LWVmYzFhMmNhYWMwNyJ9)
 
 
                   2)   Text Mining -Scrape Website Data

@@ -8,6 +8,15 @@
 [3.) Cost Analysis -Tableau](https://public.tableau.com/profile/chi4714#!/vizhome/BridgeCostAnalysis_2/Dash_TotalCost )
 
 
+## Data Analytics Group and Meetup
+Pydata
+Big Data London
+Open Data Science 
+Cogx 
+Data Science,Business intelligence and Analytics
+Microsoft Reactor
+Google Developer Group
+
 
 ## Connect
 

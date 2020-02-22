@@ -22,7 +22,6 @@ Google Developer Group
 
 ## Connect
 
-```
+
 [ Linkedin ](https://uk.linkedin.com/in/chiogorikeomumu )
 
-```

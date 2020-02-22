@@ -9,7 +9,7 @@
 
 
 ## Data Analytics Group and Meetup
-```
+
 - Pydata
 - Big Data London
 - Open Data Science 
@@ -17,7 +17,7 @@
 - Data Science,Business intelligence and Analytics
 - Microsoft Reactor
 - Google Developer Group
-```
+
 
 
 ## Connect

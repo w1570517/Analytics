@@ -10,13 +10,13 @@
 
 ## Data Analytics Group and Meetup
 ```
-Pydata
-Big Data London
-Open Data Science 
-Cogx 
-Data Science,Business intelligence and Analytics
-Microsoft Reactor
-Google Developer Group
+- Pydata
+- Big Data London
+- Open Data Science 
+- Cogx 
+- Data Science,Business intelligence and Analytics
+- Microsoft Reactor
+- Google Developer Group
 ```
 
 

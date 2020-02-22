@@ -9,7 +9,7 @@
 
 
 
-## Connect on Linkedin
+## Connect
 
 
 [ Linkedin ](https://uk.linkedin.com/in/chiogorikeomumu )

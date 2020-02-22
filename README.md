@@ -1,13 +1,5 @@
-# Analytics
-My Sample Projects - Business Intelligence, Data Engineering and Analytics
-
-
-
-Interactive Project Sample Demo-Links
 
 
                 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
-[Expected Engine Life Prediction]: https://app.powerbi.com/view?r=eyJrIjoiZjRhMjUzM2YtMmI4Ny00MTk2LWE5YzgtN2NjMGE4OTgzMzRmIiwidCI6IjgwMGM1M2Y1LWQwOWQtNGEyNC05NzY1LWVmYzFhMmNhYWMwNyJ9
-
-[Expected Engine Life Prediction] (https://app.powerbi.com/view?r=eyJrIjoiZjRhMjUzM2YtMmI4Ny00MTk2LWE5YzgtN2NjMGE4OTgzMzRmIiwidCI6IjgwMGM1M2Y1LWQwOWQtNGEyNC05NzY1LWVmYzFhMmNhYWMwNyJ9" Google's Homepage")

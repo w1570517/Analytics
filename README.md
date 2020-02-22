@@ -9,7 +9,7 @@
 
 
 
-## Connect On Linkedin
+## Connect on Linkedin
 
 
-[ Linedin ](https://uk.linkedin.com/in/chiogorikeomumu )
+[ Linkedin ](https://uk.linkedin.com/in/chiogorikeomumu )

@@ -1,4 +1,4 @@
-## List-Project Sample Demo 
+### List-Project Sample Demo 
 
 [1) Expected Engine Life Prediction](https://app.powerbi.com/view?r=eyJrIjoiZjRhMjUzM2YtMmI4Ny00MTk2LWE5YzgtN2NjMGE4OTgzMzRmIiwidCI6IjgwMGM1M2Y1LWQwOWQtNGEyNC05NzY1LWVmYzFhMmNhYWMwNyJ9 )
 
@@ -7,7 +7,7 @@
 [3) Cost Analysis -Tableau](https://public.tableau.com/profile/chi4714#!/vizhome/BridgeCostAnalysis_2/Dash_TotalCost )
 
 
-## Data Analytics Group and Meetup
+### Data Analytics Group and Meetup
 
 - Pydata
 - Big Data London
@@ -19,7 +19,7 @@
 
 
 
-## Connect
+### Connect
 
 
 [ Linkedin ](https://uk.linkedin.com/in/chiogorikeomumu )
